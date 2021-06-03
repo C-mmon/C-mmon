@@ -63,6 +63,7 @@
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=aniket101)
 
 ### Spotify?
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)
