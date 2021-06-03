@@ -35,5 +35,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-aniketsinha101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:aniketsinha101@gmail.com)
 
 ### Spotify?
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q&count={3})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)
