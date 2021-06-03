@@ -1,22 +1,20 @@
-<h2 align='center'>Hey There ! I'm Aniket<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align='center'>Hey There ! I'm Aniket <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-mmon" alt="Aniket Kumar" /> </p>
 
 - 🎓 I’m currently in my pre-final year from Computer Science Branch **Manipal University Jaipur**
 
-- 👯 I’m looking to collaborate on **anything free and open source**
+- 👯 I am tech-enthusiast who believes in **anything free and open source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/gargakshit)
+- 👨‍💻 I am self-taught Full Stack Web Developer and a freelancer from India.
 
-- 💬 Ask me about **ReScript, React, Flutter, Node and Golang**
+- 💬 Ask me about ** React, C++, Node.js, Python, JavaScript*
 
-- 🧠 I am currently learning **Distributed systems using elixir, and mobile apps with [KMM](https://kotlinlang.org/lp/mobile/)**
+- 🧠 I was ex-president at the Largest Coding Club of Our College **Randomize**.
 
-- 📫 How to reach me **me@akshit.tech**
+- 📫 I am also Microsoft Learn Student Ambassador, Community Manager at **OWASP** and Volunteer at **PyJaipur**.
 
-- ⚡ Fun fact **I love functional programming, cryptography and cats 😻**
-
-- 🎧 I like **1436 songs accross 101 albums**. I have **144 playlists of awesome music.**
+- ⚡ Currently, Intern at Analytics Vidhya and my own Startup **Kidotics, STROKE PSD**
 
 
 <img align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)</img>
