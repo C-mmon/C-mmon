@@ -1,5 +1,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=C-mmon.C-mmon" alt="Aniket Kumar" >
-<img align="right" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" alt="Male"> (He/Him)
+(He/Him)
+<img align="right" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" alt="Male"> 
 
 
 <h2 align='center'>Hey There ! I'm Aniket <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
