@@ -87,6 +87,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)
 
 
+[![Spotify](https:/c-mmon.vercel.app/api/spotify)](https://open.spotify.com/user/31hlfdvspmvhaypcl4qf7ebsbs2q)
 
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
