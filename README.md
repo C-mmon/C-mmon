@@ -1,7 +1,7 @@
 <h2 align='center'>Hey There ! I'm Aniket <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) (he/him)  <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-mmon" alt="Aniket Kumar" /> </p>
-<img align='right' src='https://i.gifer.com/5eKX.gif' width='200"'>
+<img align='right' src="https://i.gifer.com/5eKX.gif" width='200"'>
 
 - 🎓 I’m currently in my pre-final year from Computer Science Branch **Manipal University Jaipur**
 
