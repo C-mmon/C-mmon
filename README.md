@@ -1,8 +1,8 @@
 <h2 align='center'>Hey There ! I'm Aniket<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="Aniket Kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=C-mmon" alt="Aniket Kumar" /> </p>
 
-- 🔭 I’m currently in my pr-0final year**some of my side projects :P**
+- 🎓 I’m currently in my pre-final year from Computer Science Branch **Manipal University Jaipur**
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
