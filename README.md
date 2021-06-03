@@ -1,5 +1,24 @@
 <h2 align='center'>Hey There ! I'm Aniket<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="Aniket Kumar" /> </p>
+
+- 🔭 I’m currently in my pr-0final year**some of my side projects :P**
+
+- 👯 I’m looking to collaborate on **anything free and open source**
+
+- 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/gargakshit)
+
+- 💬 Ask me about **ReScript, React, Flutter, Node and Golang**
+
+- 🧠 I am currently learning **Distributed systems using elixir, and mobile apps with [KMM](https://kotlinlang.org/lp/mobile/)**
+
+- 📫 How to reach me **me@akshit.tech**
+
+- ⚡ Fun fact **I love functional programming, cryptography and cats 😻**
+
+- 🎧 I like **1436 songs accross 101 albums**. I have **144 playlists of awesome music.**
+
+
 <img align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)</img>
 <p align="left">fg
   </p>
