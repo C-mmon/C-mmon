@@ -84,10 +84,9 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=aniket101)
 
 ### Spotify?
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)
-
 
 [![Spotify](https://novatorem-8tnf0djfc-c-mmon.vercel.app/api/spotify)](https://open.spotify.com/user/31hlfdvspmvhaypcl4qf7ebsbs2q)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
