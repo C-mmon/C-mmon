@@ -54,7 +54,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/> <h2 align="center" >Latest Medium Article</h2>
+### <img align="center" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/> <h2 align="center" >Latest Medium Article</h2>
 <!-- MEDIUM-STORY-LIST:START -->
 - [How to master C++ for Competitive Programming and Job Interview?](https://cmmon.medium.com/how-to-master-c-for-competitive-programming-and-job-interview-17f79f9cf9e6?source=rss-75cab60fe82c------2)
 - [How to Google?](https://cmmon.medium.com/how-to-google-437648e617cd?source=rss-75cab60fe82c------2)
