@@ -1,5 +1,12 @@
 <h2 align='center'>Hey There ! I'm Aniket <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/cmmon/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+</h5>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=What+is+plural+of+regex%3F;Regrets;How+do+functions+breakup%3F;They+stop+calling+each+other;RIP+Internet+Explorer;Violets+are+Red;Roses+are+Blue+;I+use+Linux+;What+about+you%3F">
@@ -58,7 +65,7 @@
 ### 📝 How to Reach me?
 [![Twitter Badge](https://img.shields.io/badge/-@_Cmmon_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Cmmon_)](https://twitter.com/_Cmmon_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Aniket_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/cmmon/) 
-[![Gmail Badge](https://img.shields.io/badge/-aniketsinha101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:aniketsinha101@gmail.com)
+[![Gmail Badge](https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg)](mailto:aniketsinha101@gmail.com)
 
 ---
 
