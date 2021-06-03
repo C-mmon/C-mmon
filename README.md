@@ -18,10 +18,6 @@
 - ⚡ Currently, Intern at Analytics Vidhya and my own Startup **Kidotics, STROKE PSD**
 
 
-<img align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)</img>
-<p align="left">
-  </p>
-
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
@@ -37,3 +33,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_Cmmon_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Cmmon_)](https://twitter.com/_Cmmon_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Aniket_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/cmmon/) 
 [![Gmail Badge](https://img.shields.io/badge/-aniketsinha101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:aniketsinha101@gmail.com)
+
+### Spotify?
+
+<img align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q&count={3})</img>
+<p align="left">
+  </p>
+
