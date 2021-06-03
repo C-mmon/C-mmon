@@ -1,4 +1,4 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=C-mmon" alt="Aniket Kumar" >
+<img align="left" src="https://visitor-badge.laobi.icu/badge?C-mmon=C-mmon" alt="Aniket Kumar" >
 <img align="right" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" alt="Male">
 
 
