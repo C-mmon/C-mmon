@@ -34,5 +34,6 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Cmmon_)](https://twitter.com/_Cmmon_) [![Linkedin Badge](https://img.shields.io/badge/-Aniket_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/cmmon/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://cmmon.medium.com)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:aniketsinha101@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@_Cmmon_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Cmmon_)](https://twitter.com/_Cmmon_) 
+[![Linkedin Badge](https://img.shields.io/badge/-Aniket_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/cmmon/) 
+[![Gmail Badge](https://img.shields.io/badge/-aniketsinha101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:aniketsinha101@gmail.com)
