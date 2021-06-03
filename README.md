@@ -17,6 +17,8 @@
 
 - ⚡ Currently, Intern at Analytics Vidhya and my own Startup **Kidotics, STROKE PSD**
 
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
