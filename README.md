@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=What+is+plural+of+regex%3F;Regrets;How+do+functions+breakup%3F;They+stop+calling+each+other;RIP+Internet+Explorer;Violets+are+Red;Roses+are+Blue+;I+use+Linux+;What+about+you%3F)](https://git.io/typing-svg)
 
+
+---
+
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) (he/him)  <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-mmon" alt="Aniket Kumar" /> </p>
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width='200"'>
 
@@ -34,6 +37,8 @@
 - [@_Cmmon_: Just a gentle reminder @Microsoft Windows sucks.I rather use Linux instead of using shitty bug filled unoptimised battery consuming Windows.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ad1d76cf3aa697fda110d9760d76de2c712)
 <!-- TWITTER:END -->
 
+---
+
 ### <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/> Latest Medium Article
 <!-- MEDIUM-STORY-LIST:START -->
 - [How to master C++ for Competitive Programming and Job Interview?](https://cmmon.medium.com/how-to-master-c-for-competitive-programming-and-job-interview-17f79f9cf9e6?source=rss-75cab60fe82c------2)
@@ -43,14 +48,19 @@
 - [Jetson Nano vs Raspberry Pi](https://medium.com/analytics-vidhya/jetson-nano-vs-raspberry-pi-e84642555adc?source=rss-75cab60fe82c------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
-
+---
 
 ### 📝 How to Reach me?
 [![Twitter Badge](https://img.shields.io/badge/-@_Cmmon_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Cmmon_)](https://twitter.com/_Cmmon_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Aniket_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/cmmon/) 
 [![Gmail Badge](https://img.shields.io/badge/-aniketsinha101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:aniketsinha101@gmail.com)
 
+---
+
 ![](https://activity-graph.herokuapp.com/graph?username=C-mmon&theme=react-dark)
+
+---
+
 
 ### Spotify?
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)
