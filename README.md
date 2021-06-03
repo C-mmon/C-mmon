@@ -45,5 +45,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Aniket_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/cmmon/) 
 [![Gmail Badge](https://img.shields.io/badge/-aniketsinha101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:aniketsinha101@gmail.com)
 
+
+[![Aniket's github activity graph](https://activity-graph.herokuapp.com/graph?username=C-mmon&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/C-mmon/github-readme-activity-graph)
+
+
 ### Spotify?
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q)
