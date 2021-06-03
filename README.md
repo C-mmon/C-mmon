@@ -1,5 +1,5 @@
 <h2 align='center'>Hey There ! I'm Aniket <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
----
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=What+is+plural+of+regex%3F;Regrets;How+do+functions+breakup%3F;They+stop+calling+each+other;RIP+Internet+Explorer;Violets+are+Red;Roses+are+Blue+;I+use+Linux+;What+about+you%3F)](https://git.io/typing-svg)
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) (he/him)  <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-mmon" alt="Aniket Kumar" /> </p>
@@ -20,7 +20,7 @@
 - ⚡ Currently, Intern at Analytics Vidhya and my own Startup **Kidotics, STROKE PSD**
 
  <p align="left"> <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/languages.svg" alt="Aniket Kumar" />  <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/overview.svg" /> </p>
-
+---
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
