@@ -68,7 +68,7 @@
   <a align="left" href="https://github.com/C-mmon" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=C-mmon&repo=randomizemuj.github.io&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/C-mmon" title="Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=C-mmon&repo=randomizemuj.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
----
+<br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=C-mmon&theme=react-dark)
 
