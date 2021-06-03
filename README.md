@@ -70,6 +70,9 @@
 
 <br>
 
+
+---
+
 ![](https://activity-graph.herokuapp.com/graph?username=C-mmon&theme=react-dark)
 
 ---
