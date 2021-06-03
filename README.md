@@ -36,7 +36,4 @@
 
 ### Spotify?
 
-<img align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q&count={3})</img>
-<p align="left">
-  </p>
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hlfdvspmvhaypcl4qf7ebsbs2q&count={3})
