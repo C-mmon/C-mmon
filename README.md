@@ -1,6 +1,6 @@
 <h2 align='center'>Hey There ! I'm Aniket <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=What+is+plural+of+regex%3F;Regrets;How+do+functions+breakup%3F;They+stop+calling+each+other;RIP+Internet+Explorer;Violets+are+Red;Roses+are+Blue+;I+use+Linux+;What+about+you%3F)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?lines=What+is+plural+of+regex%3F;Regrets;How+do+functions+breakup%3F;They+stop+calling+each+other;RIP+Internet+Explorer;Violets+are+Red;Roses+are+Blue+;I+use+Linux+;What+about+you%3F)](https://git.io/typing-svg)
 
 
 ---
