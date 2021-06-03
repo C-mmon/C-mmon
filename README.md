@@ -17,10 +17,8 @@
 
 - ⚡ Currently, Intern at Analytics Vidhya and my own Startup **Kidotics, STROKE PSD**
 
- <p align="left"> <img width=40% src="https://github.com/C-mmon/C-mmon/blob/main/generated/languages.svg" alt="Aniket Kumar" /> </p>
+ <p align="left"> <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/languages.svg" alt="Aniket Kumar" />  <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/overview.svg" /> </p>
 
-
- <p align="right"> <img width=50% src="https://github.com/C-mmon/C-mmon/blob/main/generated/overview.svg" /> </p>
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
