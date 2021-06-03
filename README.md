@@ -19,7 +19,7 @@
 
 
 
-### <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/> Latest Tweets
+### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
 - [@_Cmmon_: If you download your information from instagram, you will realise facebook stores more data, than its required too. Great Move by apple!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8de6af2a5627edb11079766d66fe5c610)
 - [@_Cmmon_: LinkedIn will be of no use, once you realise Career page of companies do exist.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ad1d76ef6a16f74d7120b9a63d26ae7c510)
@@ -28,7 +28,7 @@
 - [@_Cmmon_: Just a gentle reminder @Microsoft Windows sucks.I rather use Linux instead of using shitty bug filled unoptimised battery consuming Windows.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ad1d76cf3aa697fda110d9760d76de2c712)
 <!-- TWITTER:END -->
 
-### Latest Medium Article
+### <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/> Latest Medium Article
 <!-- MEDIUM-STORY-LIST:START -->
 - [How to master C++ for Competitive Programming and Job Interview?](https://cmmon.medium.com/how-to-master-c-for-competitive-programming-and-job-interview-17f79f9cf9e6?source=rss-75cab60fe82c------2)
 - [How to Google?](https://cmmon.medium.com/how-to-google-437648e617cd?source=rss-75cab60fe82c------2)
