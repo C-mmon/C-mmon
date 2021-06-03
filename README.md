@@ -49,6 +49,8 @@
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
+### Top Projects
+(https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=C-mmon&repo=randomizemuj.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)
 
 ### 📝 How to Reach me?
 [![Twitter Badge](https://img.shields.io/badge/-@_Cmmon_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Cmmon_)](https://twitter.com/_Cmmon_) 
