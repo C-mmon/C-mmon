@@ -19,7 +19,7 @@
 
 
 
-### 📱 Latest Tweets
+### <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/> Latest Tweets
 <!-- TWITTER:START -->
 - [@_Cmmon_: If you download your information from instagram, you will realise facebook stores more data, than its required too. Great Move by apple!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8de6af2a5627edb11079766d66fe5c610)
 - [@_Cmmon_: LinkedIn will be of no use, once you realise Career page of companies do exist.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ad1d76ef6a16f74d7120b9a63d26ae7c510)
