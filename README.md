@@ -28,7 +28,7 @@
 - [@_Cmmon_: Just a gentle reminder @Microsoft Windows sucks.I rather use Linux instead of using shitty bug filled unoptimised battery consuming Windows.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ad1d76cf3aa697fda110d9760d76de2c712)
 <!-- TWITTER:END -->
 
-### Latest Medium Story
+### Latest Medium Story workflow
 
 ### 📝 How to Reach me?
 [![Twitter Badge](https://img.shields.io/badge/-@_Cmmon_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Cmmon_)](https://twitter.com/_Cmmon_) 
