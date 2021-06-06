@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Why don’t developer integrate Window title bar and Menu bar!!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8de60faa36974d611079468d16ce1cb1b)
 - [@_Cmmon_: created my Github profile.Do check out](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8de6cfaaa6975d81d0c9b65dc60e8c317)
 - [@_Cmmon_: If you download your information from instagram, you will realise facebook stores more data, than its required too. Great Move by apple!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8de6af2a5627edb11079766d66fe5c610)
 - [@_Cmmon_: LinkedIn will be of no use, once you realise Career page of companies do exist.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ad1d76ef6a16f74d7120b9a63d26ae7c510)
 - [@_Cmmon_: To understand what difference philosophy makes.Just look at @Apple and @Microsoft](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ad1d76cf6a6687adf1c089067d661e3c415)
-- [@_Cmmon_: The day Microsoft update Windows without rolling it back, is the day I will switch to windows.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ad1d76cf3aa637cdc150a9b66d56ee9c61a)
 <!-- TWITTER:END -->
 
 ---
