@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Big Sur is great. Hats off to Apple. #WWDC21](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8df60faa16279dc1c069065d56ee1c61b)
 - [@_Cmmon_: you look at the acceptance rate of Top University, Indian students might have better luck in foreign.Rather then competing for university with acceptance rate below 3 percent and some below 1 percent.#topuniversity #india](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8df6ef2a36978de150d9460d26ae6c510)
+- [@tunguz: Fastest growing remote work hubs overall](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b2abce6d7f8c809918773d2f150f40869d9db60faab6b79d817069467d26de5c3)
 - [@_Cmmon_: out my new article to make your Linux Distro Look modern with these application.#linux #developer](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8df69f4ab6b7fd81c069764d16ee1ca13)
 - [@_Cmmon_: Why don’t developer integrate Window title bar and Menu bar!!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8de60faa36974d611079468d16ce1cb1b)
-- [@_Cmmon_: created my Github profile.Do check out](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8de6cfaaa6975d81d0c9b65dc60e8c317)
-- [@_Cmmon_: If you download your information from instagram, you will realise facebook stores more data, than its required too. Great Move by apple!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8de6af2a5627edb11079766d66fe5c610)
 <!-- TWITTER:END -->
 
 ---
