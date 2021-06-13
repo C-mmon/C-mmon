@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: IOS 15 will need much polishing before it is finally released.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dd6bf3a66c7ada11079b63d46be1ca1a)
 - [@_Cmmon_: Why Tech Companies select blue for Document, Green for spreadsheet and Orange/yellow for Presentation?@Microsoft @Google @Apple ??? #developer](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dc6bf7a16c7dd6160d9b63d46ee7ca11)
 - [@_Cmmon_: Hey @github ,@typeform is not offering any professional plan for a year anymore. Can you please update  here.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dc6bf0a46f79d81d099563d369e7c212)
 - [@_Cmmon_: Sunil Chettri takes second spot.Le bollywood: Write that down, write that down](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dc6bf2a0687fd812079365d56de9c71a)
 - [@_Cmmon_: Back to the gym](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dc6af2a06379d9100b9a66d36ee1c412)
-- [@_Cmmon_: Big Sur is great. Hats off to Apple. #WWDC21](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8df60faa16279dc1c069065d56ee1c61b)
 <!-- TWITTER:END -->
 
 ---
