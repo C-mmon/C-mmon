@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Animation, Transition are added to compensate for loading time. If your Application or the Computer Architecture is already optimized, you won't require these special effects.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8db69f4ab6279d7130a9a62d06de1c612)
+- [@_Cmmon_: I ain't installing Windows 11 until they bring this dog back.Sign this petition to bring Rover the Dog back.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8db68f7a2637bda10099065dc6ae8c416)
 - [@_Cmmon_: University: Starts using images in quiz to slow down google search.ios15: 😮](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8da60f3a66c7add14099566d060e2c21b)
 - [@_Cmmon_: Fingers crossed. Hope I get selected for Microsoft Research Intern.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8da6ffaa36274d813069066d16ae4c217)
 - [@_Cmmon_: IOS 15 will need much polishing before it is finally released.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dd6bf3a66c7ada11079b63d46be1ca1a)
-- [@_Cmmon_: Why Tech Companies select blue for Document, Green for spreadsheet and Orange/yellow for Presentation?@Microsoft @Google @Apple ??? #developer](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dc6bf7a16c7dd6160d9b63d46ee7ca11)
-- [@_Cmmon_: Hey @github ,@typeform is not offering any professional plan for a year anymore. Can you please update  here.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dc6bf0a46f79d81d099563d369e7c212)
 <!-- TWITTER:END -->
 
 ---
