@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Fact: Top Fighters in UFC have biceps size under 15 inch. #ufc](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8db6cf0a16f79dd1d089463d76fe0c214)
+- [@harshbothra_: #Learn365 Day-168: Your E-Mail Validation Logic is WrongBlog:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173ea0f2cae0880e8d9466f8ad0cb15d2d9d9d77f2a66a78dc120f9b60d76fe1c41472148b3ec5)
 - [@_Cmmon_: Animation, Transition are added to compensate for loading time. If your Application or the Computer Architecture is already optimized, you won't require these special effects.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8db69f4ab6279d7130a9a62d06de1c612)
 - [@_Cmmon_: I ain't installing Windows 11 until they bring this dog back.Sign this petition to bring Rover the Dog back.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8db68f7a2637bda10099065dc6ae8c416)
 - [@_Cmmon_: University: Starts using images in quiz to slow down google search.ios15: 😮](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8da60f3a66c7add14099566d060e2c21b)
-- [@_Cmmon_: Fingers crossed. Hope I get selected for Microsoft Research Intern.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8da6ffaa36274d813069066d16ae4c217)
-- [@_Cmmon_: IOS 15 will need much polishing before it is finally released.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8dd6bf3a66c7ada11079b63d46be1ca1a)
 <!-- TWITTER:END -->
 
 ---
