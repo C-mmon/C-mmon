@@ -80,9 +80,6 @@
 ![](https://activity-graph.herokuapp.com/graph?username=C-mmon&theme=react-dark)
 
 ---
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=aniket101)
-
 ### Spotify?
 
 [![Spotify](https://novatorem-6ciftk0cw-c-mmon.vercel.app/api/spotify)](https://open.spotify.com/user/31hlfdvspmvhaypcl4qf7ebsbs2q)
