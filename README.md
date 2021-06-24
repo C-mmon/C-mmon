@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: If you are feeling down and need motivation, It wasn’t until 1970s Industry started recognising Amrish Puri talent. Believe in yourself and follow your passion. You will definitely achieve it #AmrishPuri](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96af7ab627fdf110b9262d661e2c213)
+- [@secnhack: File Upload Mindmap#Bugbounty #BugBountyTips #infosec #bugcrowd #hackerone #secnhack #cybersecurity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c3ab1efcae38411ca9573c6f60ab61368dcde6efaab6a7fdd170a9561d06ee1c21578)
 - [@_Cmmon_: 15 has a long way to go before its machine learning model can be as perfect as Google Lens.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d860f4a1687edd1c0b9164dc6be8c710)
 - [@vm_call: After joining my personal WiFi with the SSID “%p%s%s%s%s%n”, my iPhone permanently disabled it’s WiFi functionality. Neither rebooting nor changing SSID fixes it :~)](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e09328de2c3ee8b55969266d3f70cea0d6dd8db61f0a56e74dd120b9161d76be6ca10)
 - [@_Cmmon_: Fact: Top Fighters in UFC have biceps size under 15 inch. #ufc](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8db6cf0a16f79dd1d089463d76fe0c214)
-- [@harshbothra_: #Learn365 Day-168: Your E-Mail Validation Logic is WrongBlog:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173ea0f2cae0880e8d9466f8ad0cb15d2d9d9d77f2a66a78dc120f9b60d76fe1c41472148b3ec5)
-- [@ElyseSamuels: Concerns remain as the ship is still partially submerged in the ocean. Satellite imagery released last week showed discolored water near the site that some feared indicated an oil spill. The government has not officially reported an oil spill and is investigating.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a33abf2c7d1861790836bd4ad0cb15d2d9d9d77f2a66a78dd150c9763d169e4c51b78128d3fc4)
 <!-- TWITTER:END -->
 
 ---
