@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: A good setup is about how you customised your OS for improved productivity along with right working environment and not changing wallpaper.#developer #productivity #dev #data #100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96ef4aa6b74d71d0a9669d268e4c413)
+- [@_Cmmon_: Is git asking for password and username everytimeTry this: git config credential.helper storegit push](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96dfaa66b7bdf10089267d36ce8cb10)
 - [@_Cmmon_: If you are feeling down and need motivation, It wasn’t until 1970s Industry started recognising Amrish Puri talent. Believe in yourself and follow your passion. You will definitely achieve it #AmrishPuri](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96af7ab627fdf110b9262d661e2c213)
 - [@secnhack: File Upload Mindmap#Bugbounty #BugBountyTips #infosec #bugcrowd #hackerone #secnhack #cybersecurity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c3ab1efcae38411ca9573c6f60ab61368dcde6efaab6a7fdd170a9561d06ee1c21578)
 - [@_Cmmon_: 15 has a long way to go before its machine learning model can be as perfect as Google Lens.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d860f4a1687edd1c0b9164dc6be8c710)
-- [@vm_call: After joining my personal WiFi with the SSID “%p%s%s%s%s%n”, my iPhone permanently disabled it’s WiFi functionality. Neither rebooting nor changing SSID fixes it :~)](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e09328de2c3ee8b55969266d3f70cea0d6dd8db61f0a56e74dd120b9161d76be6ca10)
-- [@_Cmmon_: Fact: Top Fighters in UFC have biceps size under 15 inch. #ufc](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8db6cf0a16f79dd1d089463d76fe0c214)
 <!-- TWITTER:END -->
 
 ---
