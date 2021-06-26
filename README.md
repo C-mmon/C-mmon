@@ -72,7 +72,7 @@
   
   <a align="left" href="https://github.com/C-mmon/MuC" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=C-mmon&repo=randomizemuj.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/C-mmon" title="Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=C-mmon&repo=MuC&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/C-mmon/todo" title="Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=C-mmon&repo=todo&theme=react&border_color=61dafb&border_radius=10"></a>
   
   <a align="left" href="https://github.com/C-mmon/Code_Of_The_DAY" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=C-mmon&repo=Code_Of_The_DAY&theme=react&border_color=61dafb&border_radius=10"></a>
   
