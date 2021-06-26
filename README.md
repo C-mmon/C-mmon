@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: I really don't know if I can clear the interview round of @AtlanHQ . But from my experience till now, It's a very great company with a very promising future.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d66cfaaa6f74dd1c0e9763d068e2c612)
+- [@firt: Windows 10 tried Android app support six years ago using an embedded Android VM, but the project was canceled before stable. The project is back on Windows 11 with an intelligent partnership with Amazon.Android Apps in Amazon AppStore are already separated from Google services.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1936a0f58df1931b91937488b34bf50469d0d66ff4ab6b79d7160e9b63d360)
+- [@MIT_CSAIL: Happy birthday to #AlanTuring, the creator of modern computing. Here he is w/his portrait algorithmically approximated by ellipses:  (Photo v/@jeremyjkun)](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e321686dee1d1a633a9c974d3e30bb04f76d9da68f4a5697dde12089a64d760e9cb167c11)
 - [@_Cmmon_: A good setup is about how you customised your OS for improved productivity along with right working environment and not changing wallpaper.#developer #productivity #dev #data #100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96ef4aa6b74d71d0a9669d268e4c413)
 - [@_Cmmon_: Is git asking for password and username everytimeTry this: git config credential.helper storegit push](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96dfaa66b7bdf10089267d36ce8cb10)
-- [@_Cmmon_: If you are feeling down and need motivation, It wasn’t until 1970s Industry started recognising Amrish Puri talent. Believe in yourself and follow your passion. You will definitely achieve it #AmrishPuri](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96af7ab627fdf110b9262d661e2c213)
-- [@secnhack: File Upload Mindmap#Bugbounty #BugBountyTips #infosec #bugcrowd #hackerone #secnhack #cybersecurity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c3ab1efcae38411ca9573c6f60ab61368dcde6efaab6a7fdd170a9561d06ee1c21578)
-- [@_Cmmon_: 15 has a long way to go before its machine learning model can be as perfect as Google Lens.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d860f4a1687edd1c0b9164dc6be8c710)
 <!-- TWITTER:END -->
 
 ---
