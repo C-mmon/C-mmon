@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Could not come up with a better name for an upcoming talk.@tiangolo #fastapi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d769f1a3637bdd120b9b61d46fe3c710)
+- [@pyconindia: 🚨🚨 CFP for BoFs and Poster presentation closes in 1 day. 📜✍️⏳ Submit your proposal now: 🎟️🎫 Don't forget to get your ticket:  #Python #DataScience #security #DevOps](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f26b1eecceb891e8c8728d4f61eb1492ac7df6cf3aa6d7ddd12089166d46ce4c1137b1383)
 - [@_Cmmon_: I really don't know if I can clear the interview round of @AtlanHQ . But from my experience till now, It's a very great company with a very promising future.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d66cfaaa6f74dd1c0e9763d068e2c612)
 - [@firt: Windows 10 tried Android app support six years ago using an embedded Android VM, but the project was canceled before stable. The project is back on Windows 11 with an intelligent partnership with Amazon.Android Apps in Amazon AppStore are already separated from Google services.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1936a0f58df1931b91937488b34bf50469d0d66ff4ab6b79d7160e9b63d360)
 - [@MIT_CSAIL: Happy birthday to #AlanTuring, the creator of modern computing. Here he is w/his portrait algorithmically approximated by ellipses:  (Photo v/@jeremyjkun)](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e321686dee1d1a633a9c974d3e30bb04f76d9da68f4a5697dde12089a64d760e9cb167c11)
-- [@_Cmmon_: A good setup is about how you customised your OS for improved productivity along with right working environment and not changing wallpaper.#developer #productivity #dev #data #100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96ef4aa6b74d71d0a9669d268e4c413)
-- [@_Cmmon_: Is git asking for password and username everytimeTry this: git config credential.helper storegit push](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d96dfaa66b7bdf10089267d36ce8cb10)
 <!-- TWITTER:END -->
 
 ---
