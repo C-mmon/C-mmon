@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: for Proposal for Azure Conference#microsoft #azconf2021 #conf #Azure](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9dd6df4aa6c7ad7110d9666dc6be8c415)
 - [@_Cmmon_: Me Does not read documentation, Spends time messing with new framework/language from random tutorial.Also me: At the end#dev #Python #javascript #100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9dc69f2aa637dd8150c9069d46de0c114)
 - [@_Cmmon_: So the current issue with Github Pilot is the fact, The data on which it is trained. If it is using code which are publicly available, The original author would fail to receive credits and will only lead to increase in Plagiarism.#GitHubCopilot](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9df68f2aa6979d8100c9066d36ce4c31b)
 - [@_Cmmon_: If a programmer does not make a mistake while live coding.They are simply copying the code.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9de60fba36f79db120c9b64d061e8c214)
 - [@_Cmmon_: So apparently you cannot use Github Co-pilot with Vim, Atom and its only available for Visual Studio Code.Guess, People will start switching to VS code.#GitHubCopilot](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9de69f6a6697ddd13099666d46fe0c717)
-- [@_Cmmon_: Could not come up with a better name for an upcoming talk.@tiangolo #fastapi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd8d769f1a3637bdd120b9b61d46fe3c710)
 <!-- TWITTER:END -->
 
 ---
