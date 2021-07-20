@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: ISA is like a institute where they asking a large share of your salary of what you could have earned independently without joining them.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d86ffba26d7ed613079162d561e4c610)
+- [@_Cmmon_: ISA is utmost joke in tech industry. Try not to fall for these things. These are smart people, they have already done their homework and calculated avg income every developer can earn and set bar same.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d86ffba26e7cde10079264d16ce2c717)
+- [@_Cmmon_: Just took leap and installed Windows 11, Good thing its quiet stable with minor bugs. Great UI improvement, Elegant experience for touch screen.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d86ff7a66c7fde170c9362d76be0c216)
 - [@_Cmmon_: Arch Linux on Steam Deck❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9db61f7a56d79db1d0a9a65d161e5c612)
 - [@_Cmmon_: Anyone who needs help with insomnia. DM me.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9da60f1a76f78dc15099263dd6be8c11b)
-- [@_Cmmon_: Every sci-fi movie nowadays,Let’s mess with time-reality.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9da69f5a66d74d612069465dd60e3c01a)
-- [@_Cmmon_: for Proposal for Azure Conference#microsoft #azconf2021 #conf #Azure](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9dd6df4aa6c7ad7110d9666dc6be8c415)
-- [@_Cmmon_: Me Does not read documentation, Spends time messing with new framework/language from random tutorial.Also me: At the end#dev #Python #javascript #100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9dc69f2aa637dd8150c9069d46de0c114)
 <!-- TWITTER:END -->
 
 ---
