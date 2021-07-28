@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Boxing, Shooting, Wrestling may seem like the only sports for India to bag Medal in Tokyo Olympics.And btw, cricket is overated.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddade68f6a3637ade17099664d66be2c615)
 - [@_Cmmon_: Daily Commitment.Go Green, Until you get Hired.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d66af7ab6c7dda11069660d761e4c215)
 - [@_Cmmon_: ISA is like a institute where they asking a large share of your salary of what you could have earned independently without joining them.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d86ffba26d7ed613079162d561e4c610)
 - [@_Cmmon_: ISA is utmost joke in tech industry. Try not to fall for these things. These are smart people, they have already done their homework and calculated avg income every developer can earn and set bar same.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d86ffba26e7cde10079264d16ce2c717)
 - [@_Cmmon_: Just took leap and installed Windows 11, Good thing its quiet stable with minor bugs. Great UI improvement, Elegant experience for touch screen.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d86ff7a66c7fde170c9362d76be0c216)
-- [@_Cmmon_: Arch Linux on Steam Deck❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9db61f7a56d79db1d0a9a65d161e5c612)
 <!-- TWITTER:END -->
 
 ---
