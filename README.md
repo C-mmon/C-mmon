@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Chetan Bhagat, One Indian Girl.I wasn’t just wet. I was soaked. Shakespeare: Juliet: O happy dagger! This is thy sheath! There rust and let me die.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddad86df1a46b75d91c099b64d560e2c015)
+- [@_Cmmon_: You should not only read The Moby dick but also listen the same by John Bonham. These are some brilliant piece ever created in Human History.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddad86df1a16a75d71c099463dc6fe7c116)
 - [@_Cmmon_: After 2008, this is the first time we are winning the gold old. #NirajChopra](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddadd61fba56f78dc1c0e9168d160e7c612)
 - [@_Cmmon_: Great day for India, India Mens hockey team won against Great Britain.PV Sindhu bagged a Bronze Medal.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddadf60f1a4687cde1d0d9360d06ae3c01a)
 - [@_Cmmon_: Boxing, Shooting, Wrestling may seem like the only sports for India to bag Medal in Tokyo Olympics.And btw, cricket is overated.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddade68f6a3637ade17099664d66be2c615)
-- [@_Cmmon_: Daily Commitment.Go Green, Until you get Hired.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d66af7ab6c7dda11069660d761e4c215)
-- [@_Cmmon_: ISA is like a institute where they asking a large share of your salary of what you could have earned independently without joining them.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd9d86ffba26d7ed613079162d561e4c610)
 <!-- TWITTER:END -->
 
 ---
