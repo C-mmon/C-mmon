@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@Binatenoor: Visual JavaScript tips, Explanations, and Algorithm implementationsAmazing collection👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3d36bce0d6e789158a9428d4f61eb1492ac7df6cf0a26279d6110c9b69d760e0c01a7b1489)
+- [@denvercoder: Software developers with bad requirements. 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b3abcf7c7f0841581837588f10ba4482c9bc169f7a16a78dc170a9b60d068e0cb1773128e33)
 - [@_Cmmon_: Chetan Bhagat, One Indian Girl.I wasn’t just wet. I was soaked. Shakespeare: Juliet: O happy dagger! This is thy sheath! There rust and let me die.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddad86df1a46b75d91c099b64d560e2c015)
 - [@_Cmmon_: You should not only read The Moby dick but also listen the same by John Bonham. These are some brilliant piece ever created in Human History.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddad86df1a16a75d71c099463dc6fe7c116)
 - [@_Cmmon_: After 2008, this is the first time we are winning the gold old. #NirajChopra](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddadd61fba56f78dc1c0e9168d160e7c612)
-- [@_Cmmon_: Great day for India, India Mens hockey team won against Great Britain.PV Sindhu bagged a Bronze Medal.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddadf60f1a4687cde1d0d9360d06ae3c01a)
-- [@_Cmmon_: Boxing, Shooting, Wrestling may seem like the only sports for India to bag Medal in Tokyo Olympics.And btw, cricket is overated.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddade68f6a3637ade17099664d66be2c615)
 <!-- TWITTER:END -->
 
 ---
