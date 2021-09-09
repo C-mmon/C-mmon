@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Leetcode problem Combination (1 to 4), Subset (1 & 2), Letter Combination, Coin Change (1 & 2), Permutation (1 & 2), Palindrome Partitoning (1 & 2), Combination14 problem, Same approach Backtracking Just solve one and start editing it.Use Leetcode effectively.#100dayOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdb6bf2a26874d917069660dc69e8c511)
+- [@_Cmmon_: People who think life is like a chess. Have never been backstabbed from one of their own.😂😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdb69f1ab687cd7140a9462d16ce7c517)
 - [@Iam_TFM:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e363ebfdef6c4aa55969266d3f70cea0d6ddbdd60f1a36a7cdf170f9460d66de0c11a)
 - [@_Cmmon_: #iPhone13 The backglass will always remains an issue,The cost of replacing backglass is equal to the cost of replacing whole iPhone.iOS15 is buggy as fuck even after the developer beta 7.I don't know the use of 120 hz, it only makes sense in iPad that to designer and gamers.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdc6cf3aa6d7dd9110a9761d068e8c31a)
 - [@_Cmmon_: Starting Tomorrow, I will be creating a videos for DSA Graph by Love Babbar.  the telegram group for digital notes, doubts session and question request.#100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdc6bfaab627bd7140b9b63d261e8c311)
-- [@_Cmmon_: Happy to announce that my poster session "Thinking Fast and Slow with FastAPI" has been accepted at Pycon India 2021.Hope to see you guys there!!!Book you seat.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdf6ef5a56274dd170d9b66d361e0ca16)
-- [@_Cmmon_: Early 20s is the age when we are highly impatient. We wish for a better career, start competing with one another. Be patient, and let things get settled down. Do not forget your hobby and do things you love. I assure you, you wont regret.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdf6ef7a36379dd110f9261dd6be5cb10)
 <!-- TWITTER:END -->
 
 ---
