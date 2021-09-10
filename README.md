@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdb60f5a56c7adb1c0d9067d46ee9c41a)
+- [@_Cmmon_: Thanks to the iOS. Things are now definitely moving to the buggy side.Safari will now take you to safari full of bugs.Transferring Data from one Iphone to Iphone is now more difficult. Hence ensuring more encryption](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdb60f5a56a75dd140a9a65d269e3c216)
+- [@Variety: In advance of the first trailer, Warner Bros. has launched an innovative website featuring an interactive and widely divergent first look at the newest installment in the 22-year-old franchise.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e293ea0e8c7f69e55969266d3f70cea0d6ddbdb6bf1a76d7bda15069065dd60e6c11b)
 - [@_Cmmon_: Leetcode problem Combination (1 to 4), Subset (1 & 2), Letter Combination, Coin Change (1 & 2), Permutation (1 & 2), Palindrome Partitoning (1 & 2), Combination14 problem, Same approach Backtracking Just solve one and start editing it.Use Leetcode effectively.#100dayOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdb6bf2a26874d917069660dc69e8c511)
 - [@_Cmmon_: People who think life is like a chess. Have never been backstabbed from one of their own.😂😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdb69f1ab687cd7140a9462d16ce7c517)
-- [@Iam_TFM:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e363ebfdef6c4aa55969266d3f70cea0d6ddbdd60f1a36a7cdf170f9460d66de0c11a)
-- [@_Cmmon_: #iPhone13 The backglass will always remains an issue,The cost of replacing backglass is equal to the cost of replacing whole iPhone.iOS15 is buggy as fuck even after the developer beta 7.I don't know the use of 120 hz, it only makes sense in iPad that to designer and gamers.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdc6cf3aa6d7dd9110a9761d068e8c31a)
-- [@_Cmmon_: Starting Tomorrow, I will be creating a videos for DSA Graph by Love Babbar.  the telegram group for digital notes, doubts session and question request.#100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdc6bfaab627bd7140b9b63d261e8c311)
 <!-- TWITTER:END -->
 
 ---
