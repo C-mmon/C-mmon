@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dddd869f4a06e7adf11089a62d06fe2c61b)
 - [@_Cmmon_: Exams exist in Rajasthan Internet: I guess I have to leave](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddddf60f7a56d74dc170c9065d76ee4c116)
 - [@_Cmmon_: Interview can always be rescheduled. If the companies does not understand that. Then its prolly not worth it.Ask your friend to take your mock interview, by asking the question from recent interview experience.Take Feedback, if he thinks you are confident .You are good to go!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddcde6df6a3627ede150d9162dd6ce4c61a)
 - [@_Cmmon_: Where the Crawdads sing and the Guest List. #BooksWorthReading](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbd86bf1a3697ddc1c0a9365dc6ce2c112)
 - [@_Cmmon_:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdb60f5a56c7adb1c0d9067d46ee9c41a)
-- [@_Cmmon_: Thanks to the iOS. Things are now definitely moving to the buggy side.Safari will now take you to safari full of bugs.Transferring Data from one Iphone to Iphone is now more difficult. Hence ensuring more encryption](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddbdb60f5a56a75dd140a9a65d269e3c216)
 <!-- TWITTER:END -->
 
 ---
