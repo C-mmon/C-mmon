@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@PopCrave: #Adele charts every track from ‘30’ inside the top 13 on US Spotify, and occupies the entire top 12 in the UK.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f30a2c2d0e3911fca9573c6f60ab61368dcd86af3a26b7dda14069a61d66ce4c41579)
 - [@hrishiptweets: My 30-step SEO strategy for startups based on 4 years of learnings, marketing &amp; growing my startups to 1 million+/month organic traffic.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e172dbbf2caeb970e928362d3f150b648389c9b2beca36e7bde15069767d561e7c3137d13823cc063)
 - [@_Cmmon_: Somewhere between waiting for his/her reply and checking for their mail, We all grew up.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddede6bf0a06c7fd7170b9467dd6de3c31a)
 - [@prukalpa: It constantly surprises me how many ppl idolise roles in “strategy” and “product management” while looking down on “sales”.So here’s my take: If you want to be successful in almost anything, the one skill you must absolutely master is selling.Here&#39;s why 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f2da7eac3ee971bca9573c6f60ab61368dcdb61fbaa6c7ade100b9566d161e3c6107f)
-- [@_Cmmon_:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dddd869f4a06e7adf11089a62d06fe2c61b)
-- [@_Cmmon_: Exams exist in Rajasthan Internet: I guess I have to leave](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddddf60f7a56d74dc170c9065d76ee4c116)
+- [@iamShantanu_D: Linux Boot process1/2](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163ebfd2cae3890e848872f8c650b648389c9b2beca36e78d8110c9769d66ce3c7147e168a39c46a)
 <!-- TWITTER:END -->
 
 ---
