@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@alfcnz: Boltzmann machines are stochastic Hopfield nets with hidden units and can be used to learn the regularities of our data. The added noise allows the model to climb energy walls and land at wider lower minima. Restricted BMs allow us to speed up inference and training…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b4e2ccf8c809918773d2f150f4086fdbd869f3aa6274da170b9068d369e9c7)
 - [@amplication: We are a community of 1000+ people on Twitter 💜For people who joined us recently- We are Open-source- Create backend of your web application in just 5 minsGet a chance to win cool Amplication T-shirt and stickersSteps 👇- Follow @amplication 💻- Like 💜- Retweet 🔁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e32a2edcbe1860e8c896988f10ba4482c9bc169f7a4697dd8130a9267dd6ae4c01b73108838)
 - [@PopCrave: #Adele charts every track from ‘30’ inside the top 13 on US Spotify, and occupies the entire top 12 in the UK.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f30a2c2d0e3911fca9573c6f60ab61368dcd86af3a26b7dda14069a61d66ce4c41579)
 - [@hrishiptweets: My 30-step SEO strategy for startups based on 4 years of learnings, marketing &amp; growing my startups to 1 million+/month organic traffic.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e172dbbf2caeb970e928362d3f150b648389c9b2beca36e7bde15069767d561e7c3137d13823cc063)
 - [@_Cmmon_: Somewhere between waiting for his/her reply and checking for their mail, We all grew up.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddede6bf0a06c7fd7170b9467dd6de3c31a)
-- [@prukalpa: It constantly surprises me how many ppl idolise roles in “strategy” and “product management” while looking down on “sales”.So here’s my take: If you want to be successful in almost anything, the one skill you must absolutely master is selling.Here&#39;s why 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f2da7eac3ee971bca9573c6f60ab61368dcdb61fbaa6c7ade100b9566d161e3c6107f)
 <!-- TWITTER:END -->
 
 ---
