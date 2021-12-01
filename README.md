@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
-- [@_Cmmon_: Yeah, Github had to go down on Sunday.Couldn&#39;t he wait for one more day.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddeda6efaa5637dde1d0c9b69dd6fe1c312)
-- [@freeCodeCamp: If you&#39;re a developer, you&#39;ll probably use Linux and terminal commands at some point.But there are so many - how do you know which ones you learn first?In this course you&#39;ll learn the 50 most used Linux and terminal commands to get you started.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e192db7e4e1ed831fa6876ad7ad0cb15d2d9d9d77f2a66c79dc14079767dd68e4c716731d8e3fc0)
-- [@MIT_CSAIL: 9 key computer science topics - and the best book and video for learning each of them:  &lpar;credit @BradfieldCS&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e321686dee1d1a633a9c974d3e30bb04f76d9da6ef7a06278dc160e9669d36ee4c117731c)
-- [@_Cmmon_: Black Friday Sale for ProgrammerCoursera Plus for 1 Dollar Udacity Buy one get One free on NanodegreeDataCamp 75 percent offup to 70 percent off on web hosting &lpar;Hostinger, Namecheap, Bluehost, Nord VPN, Hostgator , Educative&rpar;40 % pluralsight50 % codeacademy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddeda69faa26e7edf15069263d46ee8cb14)
-- [@SarthakSiddha: This is to expose the reality of Manipal University Jaipur which is forcing students to come for offline exams even after seeing the recent spikes in covid cases when most of the top colleges are conducting smooth online examinations across the country#manipalexamfiasco @RajCMO](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ea0f5cae38c298c8263cfe350b648389c9b2beca36e7bdb150e9062d66de2c21b7d108232c764)
+- [@_Cmmon_: #100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddedb6ff0a76a79d91d0d9a66d369e8c710)
+- [@_Cmmon_: I know lot of people are thinking its a proud moment that an IITian became CEO. Yes, these people are raising global image of our country and changing everyone perception about India. Yet, we need to realise these are the talents our country could not utilise.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddedb6cf3a4697cdb140d9661d06ae4c317)
+- [@_Cmmon_: Note: This is not rank list. Follow for more such tweets.#100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddedb6af1a36e74dd1c0c9060dd6fe5ca1b)
+- [@_Cmmon_: 21&rpar; Tech World with Nana &rpar; KodeKloud&rpar; Stephane Maarek&rpar; Tech With Tim &rpar; The Coding Train](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddedb6af2ab637ddd16079266dd6ae8c616)
+- [@_Cmmon_: 16&rpar;dcode software &rpar; The Net Ninja&rpar; Code with Ania Kubów&rpar; Academind &rpar; FlorinPop](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddedb6af2ab6274d61c099265dd69e9c014)
 <!-- TWITTER:END -->
 
 ---
