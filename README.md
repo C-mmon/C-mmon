@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: So apparently Resident Evil Village didnt got nominated at game awards 2021.Uk what fuck game awards 2021](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dded76afaa1697bde15069362d16ce2c714)
+- [@tunguz: Some of these are huge.The World’s Biggest #Startups: Top #Unicorns of 2021](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b2abce6d7f8c809918773d2f150f4086fd1df68f7aa6e75da160b9266dc6ae3c0)
 - [@_Cmmon_: Top Website to master SQL👾 👾  👾 👾 👾](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dded66ef6ab6979d8170a9068d060e1c61b)
 - [@_Cmmon_: Pawn to c5. A big blunder by nepo.Basically the bishop on b7 gets trapped, once black plays either rook to a7 or pawn to c6.I guess there is some magnus complexity.#chess](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dded66af5a36b7eda160c9462d269e4c716)
 - [@_Cmmon_: 8 hours, 136 moves, Thriller Match.What an end game by Magnus Carlsen](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dded968fba36978d6120c9760d660e6ca17)
-- [@_Cmmon_: #DEVCommunity is someone else facing this issue with dev ios app](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dded86bf1aa6a74db13069063d36be5c71b)
-- [@anubha1812: Scary pictures coming from RajasthanThey are risking students life @RajCMO @RahulGandhi @priyankagandhi @ashokgehlot51 @SachinPilot](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e31a7e3cae3d642d4d428d4f61eb1492ac7df6cf5a4687ad71c0e9663d66ee9c7117e148f)
 <!-- TWITTER:END -->
 
 ---
