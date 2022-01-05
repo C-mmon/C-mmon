@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@omarsar0: Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI  new resource includes hundreds of solved problems to rehearse for interviews or exams related to deep learning.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1032b3f3d1e3954aca9573c6f60ab61368dcd960f0a16278d716069b65d461e8c4107d)
 - [@thisisabusufyan: &quot;NLP with Deep Learning&quot; by @stanfordnlp is free and open!Find links on:- lecture slides- lecture videos- notes- codes- suggested readingsAll is here⬇️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b37bbf2cbf18618909572c1fb1eab132a9c8f2cb6e1757cdb130d9561d46be2c3127913893ac16082cb)
 - [@_Cmmon_: only question you need to solve to crack coding interview](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddfdf6cfaa2637ed8140d9a62d76ee4c316)
 - [@_Cmmon_: Common things both recruiter and your partner can say:I hope we will stay in touch after this.You are great but I/we found a much better candidate.I found you cheating. It&#39;s over.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddfdf69f0a46e7ed61c079567d161e7cb15)
 - [@_Cmmon_: A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles  #dotnetcore #dotnet #csharp #microservices #netcore #aspnetcore #ddd #cqrs #softwarearchitecture #designpatterns #modularmonolith](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dded761f2a36e79de1d0d9166dc69e1c51a)
-- [@_Cmmon_: So apparently Resident Evil Village didnt got nominated at game awards 2021.Uk what fuck game awards 2021](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dded76afaa1697bde15069362d16ce2c714)
 <!-- TWITTER:END -->
 
 ---
