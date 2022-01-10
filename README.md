@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Which book you are reading this week?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddfd760faab6a79d7150a9167d66de6c615)
+- [@_Cmmon_: First week of 2022 was just a trial week.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddfd760fba1687cd61d0f9563d06de3c213)
+- [@icymi_py: 📦💵📈 finmarketpy • Python library for backtesting trading strategies &amp; analyzing financial markets &lpar;formerly pythalesians&rpar;👤 Saeed @saeedamenfx 🔗  #datascience](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163cabeccbdd9703ca9573c6f60ab61368dcd961f1a46c7bdd170f9162d66fe8c2137a)
+- [@_Cmmon_: Just wondering if people who ask is working for anybody @Google](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddfd769f5aa6e7bd81c0b9b67d66ae7c51b)
 - [@fletusposton: Basic Linux Overview](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1933b7f5d7f19715969268c9ad0cb15d2d9d9d77f2a66d75db11069169d46be4c21a7811893bc1)
-- [@omarsar0: Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI  new resource includes hundreds of solved problems to rehearse for interviews or exams related to deep learning.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1032b3f3d1e3954aca9573c6f60ab61368dcd960f0a16278d716069b65d461e8c4107d)
-- [@thisisabusufyan: &quot;NLP with Deep Learning&quot; by @stanfordnlp is free and open!Find links on:- lecture slides- lecture videos- notes- codes- suggested readingsAll is here⬇️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b37bbf2cbf18618909572c1fb1eab132a9c8f2cb6e1757cdb130d9561d46be2c3127913893ac16082cb)
-- [@_Cmmon_: only question you need to solve to crack coding interview](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddfdf6cfaa2637ed8140d9a62d76ee4c316)
-- [@_Cmmon_: Common things both recruiter and your partner can say:I hope we will stay in touch after this.You are great but I/we found a much better candidate.I found you cheating. It&#39;s over.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddfdf69f0a46e7ed61c079567d161e7cb15)
 <!-- TWITTER:END -->
 
 ---
