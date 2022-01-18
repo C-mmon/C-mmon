@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: 1.8 lpa salary for the first year and then performance basis that to with the bachelor degree.Got to be some kind of joke @firstcryindia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0dc6cf2a46f7fdf14079367d06ae7c612)
 - [@hdjirdeh: Open-source alternatives seem to be the new wave in business and developer products.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173bb8e8d0e68212ca9573c6f60ab61368dcd669fba66275dc130f9264d36ae3c01273)
 - [@_Cmmon_: I am willing to teach JavaScript for free to 50 students. DM me if you want to learn, will form a group](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0df6bf5a56b7bde130f9367d16de3c314)
 - [@_Cmmon_: Google drive: 15 gbOnedrive: 5gb Dropbox: 2gbMega: 20 gbPcloud: 10 gbBox: 10gbThats 62 gb of free space.Maybe its time to keep everything on cloud](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0df6bf1ab6a7fdd1c0c9667d361e2c616)
 - [@Talk_To_The_Hat: Cool!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b3ebeeafdd68825b18e62f8ca1eb1132a9c8f2cb6e1757cdb1c0f9063d66be4c2147f108c38c46a81c5)
-- [@_Cmmon_: Which book you are reading this week?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6ddfd760faab6a79d7150a9167d66de6c615)
 <!-- TWITTER:END -->
 
 ---
