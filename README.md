@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@MIT_CSAIL: 800 free computer science classes you can take online right now:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e321686dee1d1a633a9c974d3e30bb04f76d9da60f6a16a7ed715079068d16be8c410731d)
+- [@ron_utd_: SAY NOTHING JUST RETWEET](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30bcded7f68325ca9573c6f60ab61368dcd66cfaa16c7cdf140a9561d568e3c61b7d)
 - [@_Cmmon_: Fastest way to learn shortcuts for almost any tool or software.Just disable your mousepad or touchpad and start exploring.Just tried that with my Visual Studio Code.By doing this, you will be able to rem the commands you use frequently and not the uncessary 1#100DaysOfCode](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0da69f7a5637ed917089563d760e0cb11)
 - [@javarevisited: ⚡ Java SE 11 Certification Course/Test Giveaway! ⚡1. Follow us2. Retweet3. Tag a friend who may need this Java practice test4. Name a class from JDKBoth of you will have a chance to win free coupon*Winners notified in 3 days#Java #Programming #1z0819 #certification](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e153ea4e0d0e79113968f73c2e650b648389c9b2beca36e75dc140e9a61d56ee7cb117e148b32c663)
 - [@_Cmmon_: 1.8 lpa salary for the first year and then performance basis that to with the bachelor degree.Got to be some kind of joke @firstcryindia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0dc6cf2a46f7fdf14079367d06ae7c612)
-- [@hdjirdeh: Open-source alternatives seem to be the new wave in business and developer products.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173bb8e8d0e68212ca9573c6f60ab61368dcd669fba66275dc130f9264d36ae3c01273)
-- [@_Cmmon_: I am willing to teach JavaScript for free to 50 students. DM me if you want to learn, will form a group](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0df6bf5a56b7bde130f9367d16de3c314)
 <!-- TWITTER:END -->
 
 ---
