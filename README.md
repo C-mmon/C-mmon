@@ -94,6 +94,10 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
 
+### WakaTime 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Language 
 <p float="left">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
