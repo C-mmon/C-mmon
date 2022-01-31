@@ -96,19 +96,17 @@
 
 ### WakaTime 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 25 Contributions in the Year 2022
+> 🏆 26 Contributions in the Year 2022
  > 
-> 📦 187.6 kB Used in GitHub's Storage 
+> 📦 187.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 79 Public Repositories 
+> 📜 80 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -176,7 +174,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/C-mmon/C-mmon/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 19:19:16 UTC
+ Last Updated on 31/01/2022 18:47:27 UTC
 <!--END_SECTION:waka-->
 
 ### Language 
