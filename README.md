@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Encountered a weird problem today.Can you guess the output.#javascript](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1df68f4a56c7ad915099262d560e2c013)
+- [@_Cmmon_: I like how some company is filled with technically incompetent people and find a way to survive inside the organisation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1de61f7a36875db170c9563d168e8cb11)
 - [@_Cmmon_: Wordle 233 5/6⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛🟨⬛⬛⬛⬛🟩⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1de6df5a1687ddd14099366d66ee0c412)
 - [@csaba_kissi: 25 Sites For Freelancers→Guru→Fiverr→Toptal→Turing→Lorem→Bonsai→Upwork→Flexjobs→Soshace→Designhill→99designs→Crossover→Taskrabbit→Freelancer→Truelancer→Worksome→Simplyhired→Codementor→Remote One→Speedlancer→Servicescape→PeoplePerHour](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2cb3e3c3dd8c1396956e88f10ba4482c9bc169f7aa6375d91c0b9365d561e7c1127b118f3f)
 - [@_Cmmon_: #cryptocurrency With 30 percent tax, its not longer decentralized. Imagine asking satoshi nakamura 30% of the profit. Hence, govt is fooling people by creating a centralized system and putting a fake label of web3.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0d66df7a0697dd9120a9a64dd6fe6c712)
-- [@_Cmmon_: Some times we are so obsessed with losing, that instead of working on yourself and trying later. You enter into try again, try again mode.#quote](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0d960f3a76b7cdb120a9562d56ae6c71b)
-- [@_Cmmon_: The only winning move for magnus was rook to e7.Some people were criticizing vidit and pragg for not able to find the winning move in their previous.Even the best chess player can miss the winning move.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0d969f0a56e79dd1d0c9664d26ae0c01b)
 <!-- TWITTER:END -->
 
 ---
