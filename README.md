@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Hikaru for candidate](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1dc69f4a36a74da13069060dc68e4c414)
+- [@_Cmmon_: Wordle 237 5/6⬛🟨⬛⬛⬛⬛⬛🟨⬛🟨⬛⬛🟨🟨⬛⬛🟨🟨🟩🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1dc68f0a4627ed9170c9a68d46ce5c210)
 - [@_Cmmon_: Wordle 236 3/6⬛⬛🟨⬛🟩🟨🟨🟩⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1df6efaaa6e7fdb11089668d66ae1c41b)
 - [@_Cmmon_: Wordle 235 6/6*⬛⬛🟨⬛⬛🟨⬛⬛⬛⬛🟨🟨⬛⬛⬛⬛🟨🟨⬛⬛🟩🟩🟨⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1df6afaa36a75df10089068d16de6c412)
 - [@_Cmmon_: Encountered a weird problem today.Can you guess the output.#javascript](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1df68f4a56c7ad915099262d560e2c013)
-- [@_Cmmon_: I like how some company is filled with technically incompetent people and find a way to survive inside the organisation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1de61f7a36875db170c9563d168e8cb11)
-- [@_Cmmon_: Wordle 233 5/6⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛🟨⬛⬛⬛⬛🟩⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1de6df5a1687ddd14099366d66ee0c412)
 <!-- TWITTER:END -->
 
 ---
