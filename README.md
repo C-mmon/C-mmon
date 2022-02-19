@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Basically, twitter is heading toward becoming the next reddit.Adding a downvote button.What&#39;s next?Editing the tweets.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1da6ff5a16d7fdb10079663d26be8c716)
 - [@_Cmmon_: Wordle 240 6/6⬛⬛⬛🟨⬛🟩⬛⬛🟨⬛⬛⬛⬛🟩⬛🟩⬛⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1dd69f1a56b75db1c0c9a67d268e0c31a)
 - [@_Cmmon_: Hikaru for candidate](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1dc69f4a36a74da13069060dc68e4c414)
 - [@_Cmmon_: Wordle 237 5/6⬛🟨⬛⬛⬛⬛⬛🟨⬛🟨⬛⬛🟨🟨⬛⬛🟨🟨🟩🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1dc68f0a4627ed9170c9a68d46ce5c210)
 - [@_Cmmon_: Wordle 236 3/6⬛⬛🟨⬛🟩🟨🟨🟩⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1df6efaaa6e7fdb11089668d66ae1c41b)
-- [@_Cmmon_: Wordle 235 6/6*⬛⬛🟨⬛⬛🟨⬛⬛⬛⬛🟨🟨⬛⬛⬛⬛🟨🟨⬛⬛🟩🟩🟨⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1df6afaa36a75df10089068d16de6c412)
 <!-- TWITTER:END -->
 
 ---
