@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: First ask all Indian investor to invest in LIC, then before the deadline, allow all foreign investment.Foreign Investor : Time dumps the stock.We all know what happened with Paytm IPO.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d66afaa36f7fd7130d9360d469e3c415)
 - [@_Cmmon_: Magnus scores first win.I hope, Nepo comes back stronger for the next two games.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d96ef7a6687bd714069461d66ce4cb11)
 - [@_Cmmon_: Best downtime website award goes to: @UIDAI](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1db6efaaa6a79de160b9b60d16be1c311)
 - [@_Cmmon_: Wordle 247 4/6*🟨⬛⬛⬛⬛🟨🟨⬛🟩🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1db6cf4a66c78dc110f9564d06fe7c213)
 - [@_Cmmon_: Basically, twitter is heading toward becoming the next reddit.Adding a downvote button.What&#39;s next?Editing the tweets.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1da6ff5a16d7fdb10079663d26be8c716)
-- [@_Cmmon_: Wordle 240 6/6⬛⬛⬛🟨⬛🟩⬛⬛🟨⬛⬛⬛⬛🟩⬛🟩⬛⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1dd69f1a56b75db1c0c9a67d268e0c31a)
 <!-- TWITTER:END -->
 
 ---
