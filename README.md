@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Just realised @gitlab originally founder Dmitriy Zaporozhets is from Ukraine. Hope, he is safe.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d66ff0a56b7fdc120c9461d268e0c515)
+- [@_Cmmon_: During the second wave, our pm was busy campaigning in bengal. During russia-ukraine conflict, our pm is busy in UP. Hats offff #IndiaHasWeakPM](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d66ff0a1627ed6160e9560dc69e0c114)
+- [@_Cmmon_: How to become a superpower according to indian minister.Supply medicine.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d66ff0a16e7adf16099b63d66ce1ca10)
 - [@_Cmmon_: First ask all Indian investor to invest in LIC, then before the deadline, allow all foreign investment.Foreign Investor : Time dumps the stock.We all know what happened with Paytm IPO.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d66afaa36f7fd7130d9360d469e3c415)
 - [@_Cmmon_: Magnus scores first win.I hope, Nepo comes back stronger for the next two games.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d96ef7a6687bd714069461d66ce4cb11)
-- [@_Cmmon_: Best downtime website award goes to: @UIDAI](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1db6efaaa6a79de160b9b60d16be1c311)
-- [@_Cmmon_: Wordle 247 4/6*🟨⬛⬛⬛⬛🟨🟨⬛🟩🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1db6cf4a66c78dc110f9564d06fe7c213)
-- [@_Cmmon_: Basically, twitter is heading toward becoming the next reddit.Adding a downvote button.What&#39;s next?Editing the tweets.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1da6ff5a16d7fdb10079663d26be8c716)
 <!-- TWITTER:END -->
 
 ---
