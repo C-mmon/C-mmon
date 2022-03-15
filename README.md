@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Do you remember when you joined Twitter? I do! #MyTwitterAnniversary](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8dd6cf7a76b7cdb1c099660dd6ae2c511)
 - [@_Cmmon_: I mean there&#39;s lot of words. Wordle 265 X/6*⬛⬛⬛⬛⬛🟨⬛⬛⬛⬛🟨⬛🟩⬛🟨🟨🟩🟩⬛⬛⬛🟩🟩🟩🟩⬛🟩🟩🟩🟩 #Wordle265](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8dc69f7a06b7cdc14099763d76de0c012)
 - [@_Cmmon_: 2.5 out of 5 for the batman just cuz its 3 hour long.Lazy ass stuff I wonder what they have to say about once upon a time in hollywood](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d76ff2a2697fda110d9067d269e2cb16)
 - [@_Cmmon_: Things that dont matter in life Reviews by @IndianExpress](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d76ff3ab627edb140e9361d46ee0c213)
 - [@_Cmmon_: Just realised @gitlab originally founder Dmitriy Zaporozhets is from Ukraine. Hope, he is safe.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d66ff0a56b7fdc120c9461d268e0c515)
-- [@_Cmmon_: During the second wave, our pm was busy campaigning in bengal. During russia-ukraine conflict, our pm is busy in UP. Hats offff #IndiaHasWeakPM](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d66ff0a1627ed6160e9560dc69e0c114)
 <!-- TWITTER:END -->
 
 ---
