@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
-- [@_Cmmon_: KashmirFiles is now India Imdb rated movie taking over 3 idiots. The only movie in the past decade to surpass all movies. Remarkable](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8dd60f3aa627bdb1c099766d66ee8c616)
-- [@_Cmmon_: Do you remember when you joined Twitter? I do! #MyTwitterAnniversary](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8dd6cf7a76b7cdb1c099660dd6ae2c511)
-- [@_Cmmon_: I mean there&#39;s lot of words. Wordle 265 X/6*⬛⬛⬛⬛⬛🟨⬛⬛⬛⬛🟨⬛🟩⬛🟨🟨🟩🟩⬛⬛⬛🟩🟩🟩🟩⬛🟩🟩🟩🟩 #Wordle265](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8dc69f7a06b7cdc14099763d76de0c012)
-- [@_Cmmon_: 2.5 out of 5 for the batman just cuz its 3 hour long.Lazy ass stuff I wonder what they have to say about once upon a time in hollywood](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d76ff2a2697fda110d9067d269e2cb16)
-- [@_Cmmon_: Things that dont matter in life Reviews by @IndianExpress](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd1d76ff3ab627edb140e9361d46ee0c213)
+- [@_Cmmon_: Magnus wins #CHESSCHAMPS](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d960f1aa6e7fd7130b9368d76de1cb12)
+- [@_Cmmon_: Go magnus #CHESSCHAMPS](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d960f1a46e78d6100b9469d16be0c512)
+- [@_Cmmon_: Magnus has been blundering lately, there are only few people who are able to find his blunder. Duda is definetly that one guy. #CHESSCHAMPS](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d960f1a16f7cd914079567dd6ce1c210)
+- [@_Cmmon_: Damn, magnus must stop taking free pawns. Incredible knight move by duda, well calculated. The whole game magnus was defending](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d960f3a16c79d813089468d46ae5ca13)
+- [@_Cmmon_: Duda g3 pawn is the man of the match.! #magnus#chess](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d96ffaa36f75da16089361dd6de8ca16)
 <!-- TWITTER:END -->
 
 ---
