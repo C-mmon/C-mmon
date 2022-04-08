@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Telecom industry will post profit due to increase tariff.Coal and energy sector has seen a huge demand due to war issue.Construction company- example Lodha, larsen and turbo are doing pretty great.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9dc68f6ab6f7edc140c9a69d468e8c310)
+- [@_Cmmon_: Can we just appreciate the fact All the sectors of indian industry is just booming.Banking is doing great- HDFC merge, bandhan recent acquistion,Yes bank rating has improvedSugar industry is gaining 3-4 percent everyday.Textile industry is soaring due to high demand&lpar;1/3&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9dc68f6ab6a7cd7140f9363d069e3c117)
 - [@_Cmmon_: Pet me to sign in.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d66bf1ab6f79da1c069263dc6fe7c117)
 - [@_Cmmon_: Magnus wins #CHESSCHAMPS](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d960f1aa6e7fd7130b9368d76de1cb12)
 - [@_Cmmon_: Go magnus #CHESSCHAMPS](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d960f1a46e78d6100b9469d16be0c512)
-- [@_Cmmon_: Magnus has been blundering lately, there are only few people who are able to find his blunder. Duda is definetly that one guy. #CHESSCHAMPS](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d960f1a16f7cd914079567dd6ce1c210)
-- [@_Cmmon_: Damn, magnus must stop taking free pawns. Incredible knight move by duda, well calculated. The whole game magnus was defending](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd8d960f3a16c79d813089468d46ae5ca13)
 <!-- TWITTER:END -->
 
 ---
