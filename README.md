@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: Code with*](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d76ef6aa697ada10069660dc6ce3c510)
+- [@_Cmmon_: Nothing can be worse then working in a company filled with bugs, poor management and code no documentation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d76ef6aa697cdc1d0a9562dc68e4c412)
 - [@_Cmmon_: Its today I understood that hike of 8-9 percent is basically company telling you, your salary is same as the previous year.With rising inflation, taxes its apparently you are losing money yoy.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d76af2a06f74d91c0a9366dc6ae1cb14)
 - [@_Cmmon_: Fuck those journalist and news channel who are biased towards amber heard.These people just show one side of the story and make the world more toxic.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d96cf7a7697dd8150e9065d568e7c515)
 - [@_Cmmon_: You dont even know your real potential unless you are challenged by a strong opponent.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9da69f3aa697ada160f9265d06ce5c111)
-- [@_Cmmon_: Align: right](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9dc60f2a5627fdb170f9660d369e9cb12)
-- [@_Cmmon_: Telecom industry will post profit due to increase tariff.Coal and energy sector has seen a huge demand due to war issue.Construction company- example Lodha, larsen and turbo are doing pretty great.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9dc68f6ab6f7edc140c9a69d468e8c310)
 <!-- TWITTER:END -->
 
 ---
