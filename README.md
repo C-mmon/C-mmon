@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: If not for fake allegation, please remove amber heard for fake acting in aquaman 2.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdada6bf7a3627ad9110c9361d061e7c314)
+- [@_Cmmon_: Example of poor management](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdada6bf1a5627ad7150b9262d460e9c31b)
 - [@_Cmmon_: Code with*](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d76ef6aa697ada10069660dc6ce3c510)
 - [@_Cmmon_: Nothing can be worse then working in a company filled with bugs, poor management and code no documentation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d76ef6aa697cdc1d0a9562dc68e4c412)
 - [@_Cmmon_: Its today I understood that hike of 8-9 percent is basically company telling you, your salary is same as the previous year.With rising inflation, taxes its apparently you are losing money yoy.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d76af2a06f74d91c0a9366dc6ae1cb14)
-- [@_Cmmon_: Fuck those journalist and news channel who are biased towards amber heard.These people just show one side of the story and make the world more toxic.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d96cf7a7697dd8150e9065d568e7c515)
-- [@_Cmmon_: You dont even know your real potential unless you are challenged by a strong opponent.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9da69f3aa697ada160f9265d06ce5c111)
 <!-- TWITTER:END -->
 
 ---
