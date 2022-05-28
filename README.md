@@ -45,11 +45,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
+- [@_Cmmon_: 58 million companies and yet I cant find one interview.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdbde6af4a66c7dd6140d9164d06de9c311)
 - [@_Cmmon_: Some of my fav read](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdad769fba36c79dc1c0c9368d06be7c110)
 - [@_Cmmon_: Jobs like this should be banned.Mental health is more important, every organism follow circadian rhythm with sun being the most important external cue. Why mess with body clock cycle just to get your dream job.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdad66bf3a26c7bd8150f9667d468e1ca12)
 - [@_Cmmon_: If not for fake allegation, please remove amber heard for fake acting in aquaman 2.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdada6bf7a3627ad9110c9361d061e7c314)
 - [@_Cmmon_: Example of poor management](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdada6bf1a5627ad7150b9262d460e9c31b)
-- [@_Cmmon_: Code with*](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cd9d76ef6aa697ada10069660dc6ce3c510)
 <!-- TWITTER:END -->
 
 ---
