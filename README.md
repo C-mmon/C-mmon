@@ -23,11 +23,11 @@
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width='200"'>
 
 
-- 🎓 I’m currently in my pre-final year from Computer Science Branch **Manipal University Jaipur**
+- 🎓 I have complete my Bachelors of Technology from **Manipal University Jaipur**
 
 - 👯 I am tech-enthusiast who believes in **anything free and open source**
 
-- 👨‍💻 I am self-taught Full Stack Web Developer and a freelancer from India.
+- 👨‍💻 I am self-taught Software Developer from India.
 
 - 💬 Ask me about React, C++, Node.js, Python, JavaScript.
 
@@ -35,7 +35,7 @@
 
 - 📫 I am also Microsoft Learn Student Ambassador, Community Manager at **OWASP** and Volunteer at **PyJaipur**.
 
-- ⚡ Currently, Intern at Analytics Vidhya and my own Startup **Kidotics, STROKE PSD**
+- ⚡ Currently, Firmware Engineer at Western Digital
 <h> </h>
  <p align="left"> <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/languages.svg" alt="Aniket Kumar" />  <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/overview.svg" /> </p>
  
