@@ -22,20 +22,21 @@
 
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width='200"'>
 
+- 💼 Present Firmware Engineer at **Western Digital **
 
-- 🎓 I have complete my Bachelors of Technology from **Manipal University Jaipur**
+- 👔 Past Experience- Software Engineer Intern at Oracle
 
-- 👯 I am tech-enthusiast who believes in **anything free and open source**
+- 🎓 Completed Bachelors of Technology from **Manipal University Jaipur**
+
+- 👯 Assoicated with OSFC, embedded open source group, TU DELFT University
 
 - 👨‍💻 I am self-taught Software Developer from India.
 
-- 💬 Ask me about React, C++, Node.js, Python, JavaScript.
+- 💬 Ask me about C, C++, Python and Flash Memory related stuff,
 
-- 🧠 I was former president at the Largest Coding Club of Our College **Randomize**.
+- 🧠 I was former president and founded the Largest Coding Club of Our College **Randomize**.
 
 - 📫 I am also Microsoft Learn Student Ambassador, Community Manager at **OWASP** and Volunteer at **PyJaipur**.
-
-- ⚡ Currently, Firmware Engineer at Western Digital
 <h> </h>
  <p align="left"> <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/languages.svg" alt="Aniket Kumar" />  <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/overview.svg" /> </p>
  
