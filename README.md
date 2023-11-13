@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/cmmon/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/aniketsinha101" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="aniketsinha101@gmail.com" title="Gmail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail</a></code>
-  <code><a href="https://twitter.com/_Cmmon_" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
+  <code><a href="https://twitter.com/cmmonco" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
   
 </h5>
 <h1 align="center">
