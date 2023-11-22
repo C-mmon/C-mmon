@@ -97,8 +97,6 @@
 
 ### WakaTime 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 **🐱 My GitHub Data** 
@@ -169,7 +167,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-mmon/C-mmon/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2023 18:34:29 UTC
+ Last Updated on 22/11/2023 18:35:10 UTC
 <!--END_SECTION:waka-->
 
 ### Language 
