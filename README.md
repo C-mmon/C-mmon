@@ -103,7 +103,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 239.5 kB Used in GitHub's Storage 
+> 📦 248.3 kB Used in GitHub's Storage 
  > 
 > 🏆 26 Contributions in the Year 2023
  > 
@@ -140,16 +140,17 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ██████████████████████░░░   89.14 % 
+C                        0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Desi-Digital             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +170,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-mmon/C-mmon/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 18:35:01 UTC
+ Last Updated on 24/11/2023 18:34:50 UTC
 <!--END_SECTION:waka-->
 
 ### Language 
