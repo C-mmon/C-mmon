@@ -105,8 +105,6 @@
 
 > 📦 248.3 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 96 Public Repositories 
@@ -171,7 +169,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-mmon/C-mmon/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2023 18:36:39 UTC
+ Last Updated on 29/11/2023 18:34:58 UTC
 <!--END_SECTION:waka-->
 
 ### Language 
