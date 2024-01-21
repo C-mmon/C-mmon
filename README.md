@@ -103,7 +103,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 248.4 kB Used in GitHub's Storage 
+> 📦 248.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -169,7 +169,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-mmon/C-mmon/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2024 18:34:19 UTC
+ Last Updated on 21/01/2024 18:35:15 UTC
 <!--END_SECTION:waka-->
 
 ### Language 
