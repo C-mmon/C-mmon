@@ -46,11 +46,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
-- [@ReactDayIn: 💥 Giveaway Alert 💥We are giving away 25 sets of React Day SwagRegister for the conference and re-tweet this to participate in the giveaway.  will randomly pick 25 winners and announce them on Wednesday evening.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d3ab3e2d6c68603ac8828d4f61eb1492ac7df6df0a36b75d9140d9061d66ee7c114721683)
-- [@_Cmmon_: 58 million companies and yet I cant find one interview.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdbde6af4a66c7dd6140d9164d06de9c311)
-- [@_Cmmon_: Some of my fav read](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdad769fba36c79dc1c0c9368d06be7c110)
-- [@_Cmmon_: Jobs like this should be banned.Mental health is more important, every organism follow circadian rhythm with sun being the most important external cue. Why mess with body clock cycle just to get your dream job.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdad66bf3a26c7bd8150f9667d468e1ca12)
-- [@_Cmmon_: If not for fake allegation, please remove amber heard for fake acting in aquaman 2.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdada6bf7a3627ad9110c9361d061e7c314)
+- [@_Cmmon_: 1.8 lpa salary for the first year and then performance basis that to with the bachelor degree.Got to be some kind of joke @firstcryindia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0dc6cf2a46f7fdf14079367d06ae7c612)
+- [@hdjirdeh: Open-source alternatives seem to be the new wave in business and developer products.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173bb8e8d0e68212ca9573c6f60ab61368dcd669fba66275dc130f9264d36ae3c01273)
+- [@_Cmmon_: I am willing to teach JavaScript for free to 50 students. DM me if you want to learn, will form a group](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0df6bf5a56b7bde130f9367d16de3c314)
+- [@_Cmmon_: Google drive: 15 gbOnedrive: 5gb Dropbox: 2gbMega: 20 gbPcloud: 10 gbBox: 10gbThats 62 gb of free space.Maybe its time to keep everything on cloud](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6dd0df6bf1ab6a7fdd1c0c9667d361e2c616)
+- [@Talk_To_The_Hat: Cool!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b3ebeeafdd68825b18e62f8ca1eb1132a9c8f2cb6e1757cdb1c0f9063d66be4c2147f108c38c46a81c5)
 <!-- TWITTER:END -->
 
 ---
