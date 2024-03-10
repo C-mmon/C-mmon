@@ -58,10 +58,10 @@
 ### <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/> Latest Medium Article
 <!-- MEDIUM-STORY-LIST:START -->
 - [Why your Technical Resume Sucks?](https://cmmon.medium.com/why-your-technical-resume-sucks-745c45b4f98e?source=rss-75cab60fe82c------2)
+- [Improving Productivity for Developers](https://cmmon.medium.com/improving-productivity-for-developers-790d64ea6d34?source=rss-75cab60fe82c------2)
 - [Top Modern UI Application for Your Linux Distribution](https://cmmon.medium.com/top-modern-ui-application-for-your-linux-distribution-ad848e30cdc3?source=rss-75cab60fe82c------2)
 - [How to master C++ for Competitive Programming and Job Interview?](https://cmmon.medium.com/how-to-master-c-for-competitive-programming-and-job-interview-17f79f9cf9e6?source=rss-75cab60fe82c------2)
 - [How to Google?](https://cmmon.medium.com/how-to-google-437648e617cd?source=rss-75cab60fe82c------2)
-- [Boyer-Moore Majority Vote Algorithm](https://cmmon.medium.com/boyer-moore-majority-vote-algorithm-7262fd39ccc6?source=rss-75cab60fe82c------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
