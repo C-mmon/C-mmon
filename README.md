@@ -99,13 +99,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 248.7 kB Used in GitHub's Storage 
- > 
-> 🏆 42 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -169,7 +167,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-mmon/C-mmon/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2024 18:36:12 UTC
+ Last Updated on 17/05/2024 18:37:19 UTC
 <!--END_SECTION:waka-->
 
 ### Language 
