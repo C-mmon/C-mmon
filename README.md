@@ -46,11 +46,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
-- [@ReactDayIn: 💥 Giveaway Alert 💥We are giving away 25 sets of React Day SwagRegister for the conference and re-tweet this to participate in the giveaway.  will randomly pick 25 winners and announce them on Wednesday evening.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d3ab3e2d6c68603ac8828d4f61eb1492ac7df6df0a36b75d9140d9061d66ee7c114721683)
-- [@_Cmmon_: 58 million companies and yet I cant find one interview.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdbde6af4a66c7dd6140d9164d06de9c311)
-- [@_Cmmon_: Some of my fav read](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdad769fba36c79dc1c0c9368d06be7c110)
-- [@_Cmmon_: Jobs like this should be banned.Mental health is more important, every organism follow circadian rhythm with sun being the most important external cue. Why mess with body clock cycle just to get your dream job.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdad66bf3a26c7bd8150f9667d468e1ca12)
-- [@_Cmmon_: If not for fake allegation, please remove amber heard for fake acting in aquaman 2.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e201cbfeccdecb855969266d3f70cea0d6cdada6bf7a3627ad9110c9361d061e7c314)
+- [@ReactDayIn: 💥 Giveaway Alert 💥We are giving away 25 sets of React Day SwagRegister for the conference and re-tweet this to participate in the giveaway.  will randomly pick 25 winners and announce them on Wednesday evening.](https://twitter.com/ReactDayIn/status/1531186023136636928)
+- [@_Cmmon_: 58 million companies and yet I cant find one interview.](https://twitter.com/_Cmmon_/status/1530274609022455813)
+- [@_Cmmon_: Some of my fav read](https://twitter.com/_Cmmon_/status/1529181643830853632)
+- [@_Cmmon_: Jobs like this should be banned.Mental health is more important, every organism follow circadian rhythm with sun being the most important external cue. Why mess with body clock cycle just to get your dream job.](https://twitter.com/_Cmmon_/status/1528300667105710080)
+- [@_Cmmon_: If not for fake allegation, please remove amber heard for fake acting in aquaman 2.](https://twitter.com/_Cmmon_/status/1524341876530159616)
 <!-- TWITTER:END -->
 
 ---
