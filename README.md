@@ -97,13 +97,13 @@
 
 ### WakaTime 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 248.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,45 +111,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-🌆 Daytime                179 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-🌃 Evening                373 commits         ████████████░░░░░░░░░░░░░   49.67 % 
-🌙 Night                  95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Tuesday                  96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Wednesday                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Thursday                 261 commits         █████████░░░░░░░░░░░░░░░░   34.75 % 
-Friday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Saturday                 79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Sunday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -167,7 +128,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-mmon/C-mmon/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:43:44 UTC
+ Last Updated on 22/10/2024 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 ### Language 
