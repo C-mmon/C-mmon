@@ -46,11 +46,11 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
 <!-- TWITTER:START -->
-- [@ReactDayIn: 💥 Giveaway Alert 💥We are giving away 25 sets of React Day SwagRegister for the conference and re-tweet this to participate in the giveaway.  will randomly pick 25 winners and announce them on Wednesday evening.](https://twitter.com/ReactDayIn/status/1531186023136636928)
-- [@_Cmmon_: 58 million companies and yet I cant find one interview.](https://twitter.com/_Cmmon_/status/1530274609022455813)
-- [@_Cmmon_: Some of my fav read](https://twitter.com/_Cmmon_/status/1529181643830853632)
-- [@_Cmmon_: Jobs like this should be banned.Mental health is more important, every organism follow circadian rhythm with sun being the most important external cue. Why mess with body clock cycle just to get your dream job.](https://twitter.com/_Cmmon_/status/1528300667105710080)
-- [@_Cmmon_: If not for fake allegation, please remove amber heard for fake acting in aquaman 2.](https://twitter.com/_Cmmon_/status/1524341876530159616)
+- [💥 Giveaway Alert 💥We are giving away 25 sets of React Day SwagRegister for the conference and re-tweet this to participate in the giveaway. https://t.co/tUXnADQVl7We will randomly pick 25 winners and announce them on Wednesday evening. pic.twitter.com/JdejmLmD0n](https://x.com/ReactDayIn/status/1531186023136636928)
+- [58 million companies and yet I cant find one interview. pic.twitter.com/bPRxemaicE](https://x.com/_Cmmon_/status/1530274609022455813)
+- [Some of my fav read pic.twitter.com/wxJ4rrLT71](https://x.com/_Cmmon_/status/1529181643830853632)
+- [Jobs like this should be banned.Mental health is more important, every organism follow circadian rhythm with sun being the most important external cue. Why mess with body clock cycle just to get your dream job. pic.twitter.com/9omp7iQYWf](https://x.com/_Cmmon_/status/1528300667105710080)
+- [If not for fake allegation, please remove amber heard for fake acting in aquaman 2.](https://x.com/_Cmmon_/status/1524341876530159616)
 <!-- TWITTER:END -->
 
 ---
