@@ -105,8 +105,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 103 Public Repositories 
@@ -169,7 +167,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-mmon/C-mmon/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 18:47:24 UTC
+ Last Updated on 20/03/2025 18:45:03 UTC
 <!--END_SECTION:waka-->
 
 ### Language 
