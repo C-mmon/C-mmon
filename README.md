@@ -57,11 +57,11 @@
 
 ### <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/> Latest Medium Article
 <!-- MEDIUM-STORY-LIST:START -->
+- [Count the hidden Sequence.](https://cmmon.medium.com/count-the-hidden-sequence-7bf1a9662308?source=rss-75cab60fe82c------2)
 - [Median Of Two Sorted: The Hard way](https://cmmon.medium.com/median-of-two-sorted-the-hard-way-72706504dde2?source=rss-75cab60fe82c------2)
 - [Longest Increasing Sub sequence](https://cmmon.medium.com/longest-increasing-sub-sequence-7fc82df985c5?source=rss-75cab60fe82c------2)
 - [Function pointer &lpar;Advanced C series Part 1&rpar;](https://cmmon.medium.com/function-pointer-advanced-c-series-part-1-0fd2af7f97e5?source=rss-75cab60fe82c------2)
 - [Why your Technical Resume Sucks?](https://cmmon.medium.com/why-your-technical-resume-sucks-745c45b4f98e?source=rss-75cab60fe82c------2)
-- [Improving Productivity for Developers](https://cmmon.medium.com/improving-productivity-for-developers-790d64ea6d34?source=rss-75cab60fe82c------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
