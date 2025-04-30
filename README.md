@@ -57,11 +57,11 @@
 
 ### <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/> Latest Medium Article
 <!-- MEDIUM-STORY-LIST:START -->
+- [Course Schedule III](https://cmmon.medium.com/course-schedule-iii-0da1e9c3d34e?source=rss-75cab60fe82c------2)
 - [Vibing with Co-pilot: Features that will unleash your productivity](https://cmmon.medium.com/vibing-with-co-pilot-features-that-will-unleash-your-productivity-8a782e762df4?source=rss-75cab60fe82c------2)
 - [Beyond malloc: Memory Management in Python and Java vs. C/C++](https://cmmon.medium.com/beyond-malloc-memory-management-in-python-and-java-vs-c-c-2644d52ee4fe?source=rss-75cab60fe82c------2)
 - [Design a Bounded Blocking Queue.](https://cmmon.medium.com/design-a-bounded-blocking-queue-8e1bfc288fce?source=rss-75cab60fe82c------2)
 - [Minimum Paint Cost: A Dynamic Perspective](https://cmmon.medium.com/minimum-paint-cost-a-dynamic-perspective-225381bbc474?source=rss-75cab60fe82c------2)
-- [Count the hidden Sequence.](https://cmmon.medium.com/count-the-hidden-sequence-7bf1a9662308?source=rss-75cab60fe82c------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
