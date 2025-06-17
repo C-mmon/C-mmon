@@ -22,9 +22,9 @@
 
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width='200"'>
 
-- 💼 Present Firmware Engineer at **Western Digital **
+- 💼 Present Independent Embeddeded Consultant 
 
-- 👔 Past Experience- Software Engineer Intern at Oracle
+- 👔 Past Experience- Software Engineer Intern at Oracle, Senior Firmware Engineer at Western Digital
 
 - 🎓 Completed Bachelors of Technology from **Manipal University Jaipur**
 
