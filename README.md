@@ -22,38 +22,19 @@
 
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width='200"'>
 
-- 💼 Present Independent Embeddeded Consultant 
+- 💼 Present Confedential
 
 - 👔 Past Experience- Software Engineer Intern at Oracle, Senior Firmware Engineer at Western Digital
 
-- 🎓 Completed Bachelors of Technology from **Manipal University Jaipur**
-
 - 👯 Assoicated with OSFC, embedded open source group, TU DELFT University
 
-- 👨‍💻 I am self-taught Software Developer from India.
+- 💬 Deep Interest: Distrubuted System
 
-- 💬 Ask me about C, C++, Python, Linux and Flash Memory related stuff.
-
-- 🧠 I was former president and founded the Largest Coding Club of Our College **Randomize**.
-
-- 📫 I am also Microsoft Learn Student Ambassador, Community Manager at **OWASP** and Volunteer at **PyJaipur**.
 <h> </h>
  <p align="left"> <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/languages.svg" alt="Aniket Kumar" />  <img src="https://github.com/C-mmon/C-mmon/blob/main/generated/overview.svg" /> </p>
  
  
- ---
- 
 
-### <img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png"/> Latest Tweets
-<!-- TWITTER:START -->
-- [💥 Giveaway Alert 💥We are giving away 25 sets of React Day SwagRegister for the conference and re-tweet this to participate in the giveaway.  will randomly pick 25 winners and announce them on Wednesday evening.](https://x.com/ReactDayIn/status/1531186023136636928)
-- [58 million companies and yet I cant find one interview.](https://x.com/_Cmmon_/status/1530274609022455813)
-- [Some of my fav read](https://x.com/_Cmmon_/status/1529181643830853632)
-- [Jobs like this should be banned.Mental health is more important, every organism follow circadian rhythm with sun being the most important external cue. Why mess with body clock cycle just to get your dream job.](https://x.com/_Cmmon_/status/1528300667105710080)
-- [If not for fake allegation, please remove amber heard for fake acting in aquaman 2.](https://x.com/_Cmmon_/status/1524341876530159616)
-<!-- TWITTER:END -->
-
----
 
 ### <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/> Latest Medium Article
 <!-- MEDIUM-STORY-LIST:START -->
