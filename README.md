@@ -38,11 +38,11 @@
 
 ### <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/> Latest Medium Article
 <!-- MEDIUM-STORY-LIST:START -->
+- [Simple Deque Implementation](https://cmmon.medium.com/simple-deque-implementation-25ce7d6faeaf?source=rss-75cab60fe82c------2)
 - [Taming the Tail: Building a Deterministic Market Data Consumer](https://cmmon.medium.com/taming-the-tail-building-a-deterministic-market-data-consumer-292c5a6c65fb?source=rss-75cab60fe82c------2)
 - [cHow does a malloc work?](https://cmmon.medium.com/chow-does-a-malloc-work-45ba5a6fbf32?source=rss-75cab60fe82c------2)
 - [Reader-Writer Problem [The Most Complex Problem]](https://cmmon.medium.com/reader-writer-problem-the-most-complex-problem-dc2b471fb394?source=rss-75cab60fe82c------2)
 - [C++ Virtual Constructors](https://cmmon.medium.com/c-virtual-constructors-09a7bcc8988c?source=rss-75cab60fe82c------2)
-- [Volatile in a multi-threaded](https://cmmon.medium.com/volatile-in-a-multi-threaded-7e3fe6843af1?source=rss-75cab60fe82c------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
