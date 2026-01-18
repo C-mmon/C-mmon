@@ -24,8 +24,6 @@
 
 - 💼 Present Confedential
 
-- 👔 Past Experience- Software Engineer Intern at Oracle, Senior Firmware Engineer at Western Digital
-
 - 👯 Assoicated with OSFC, embedded open source group, TU DELFT University
 
 - 💬 Deep Interest: Distrubuted System
